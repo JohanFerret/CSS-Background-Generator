@@ -3,7 +3,7 @@ body {
 	margin: auto 0;
     color: rgba(0,0,0,.5);
     text-align: center;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, #99ff99 , #0099ff); /* Standard syntax */
 }
 /* Border and shadow for navbar, boxes and box title */
 .zone {
