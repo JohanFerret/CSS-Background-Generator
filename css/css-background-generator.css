@@ -23,7 +23,7 @@ body {
     list-style: none;
     font-size: 0.8em;
     margin: 0;
-    min-height: 70px;
+    min-height: 75px;
 }
 /* Keeps the main navbar on screen when scrolling */
 .sticky {
@@ -90,7 +90,7 @@ h3 {
     font-size: 1.2em;
     margin: 0;
     text-align: center;
-    height: 60px;
+    height: 65px;
     position: fixed;
     bottom: 0;
     width: 100%;
